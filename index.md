@@ -35,7 +35,7 @@ Our research activities involve:
   include button.html
   type=""
   text="Joining the Lab"
-  link= "https://scd-github.github.io/jsd-lab-website-template/lab/#prospective-students"
+  link= "lab/#prospective-students"
 
 %}
 
@@ -43,7 +43,7 @@ Our research activities involve:
   include button.html
   type=""
   text="Learn More"
-  link= "https://scd-github.github.io/jsd-lab-website-template/lab/"
+  link= "lab/"
 
 %}
 
