@@ -22,7 +22,7 @@ nav:
 {%
   include button.html
   type=""
-  text="Read For Free!"
+  text="Read For Free"
   link="https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just"
 %}
 
@@ -54,7 +54,7 @@ Becker positions the role of information technology and computing in environment
   include button.html
   type=""
   text="Explore More"
-  link="https:///devilsdictionary/"
+  link="insolvent/devilsdictionary/"
 %}
 
 {% include section.html %}
