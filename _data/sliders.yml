@@ -1,0 +1,21 @@
+- selector: slider2
+  bullets: true
+  captions: false
+  images:
+    - src: images/curbcut1.png
+      href: https://toronto.curbcut.ca/
+    - src: images/insolvent resize.png
+      href: insolvent
+    - src: images/limits 2023 res.png
+      href: https://limits.pubpub.org/pub/iw8v1y2m/release/1
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
