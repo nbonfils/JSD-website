@@ -1,18 +1,17 @@
 # site properties and page defaults
-title: JustSustainabilityDesign
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: Just Sustainability Design
+subtitle: Technologies for Just and Sustainable Communities 
+description: 
+header: images/insolvent-crop.png
+footer: images/green.png
 
 # site social media and other links
 links:
-  email: contact@JustSustainabilityDesign.com
-  orcid: 0000-0001-8713-9213
+  email: christoph.becker@utoronto.ca
+  orcid: 0000-0002-8364-0593
   google-scholar: ETJoidYAAAAJ
   github: JustSustainabilityDesign
-  twitter: JustSustainabilityDesign
-  youtube: JustSustainabilityDesign
+  mastodon: cbecker
 
 ### jekyll settings
 
