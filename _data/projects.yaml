@@ -1,47 +1,76 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Curbcut
+  image: images/ppl_per_tree.png
+  link: https://toronto.curbcut.ca/
+  description: A map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. 
+  repo: https://github.com/Curbcut/curbcut-toronto
   tags:
-    - resource
+    - urban sustainability
+    - data curation
+    - civic tech
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Building Inclusive Neighbourhoods 
+  image: images/school of cities3.png
+  link: https://schoolofcities.utoronto.ca/urban-challenge-grant-3-0-migration-belonging-and-thriving/
+  description: In this new project funded by the School of Cities, we explore the tensions between data analytics and lived experience through lenses such as design justice and data feminism.
+  repo:
   tags:
-    - resource
+    - civic tech
+    - design justice
+    - data feminism
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Sustainability Design
+  image: images/karlskronamanifesto.png
+  link: https://www.sustainabilitydesign.org/
+  description: Our lab is a founding member of the international Karlskrona Alliance, best known for its Karlskrona Manifesto for Susstainability Design (2015).  
+  repo: 
   tags:
-    - resource
-    - publication
+    - sustainability
+    - karlskrona
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Intertemporal choice in System Design
+  image: images/chocolates_judgment.jpg
+  link: https://www.sciencedirect.com/science/article/pii/S0950584923000174
+  description: In our recent article, we set a foundation for future studies of intertemporal choices by showing that they are ubiquitous in systems design practice and poorly understood and showing how we can study them in realistic ways. 
   tags:
-    - software
+    - decision making
+    - intertemporal choice
+    - cognitive studies
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Temporal Discounting in Software Engineering
+  image: images/chocolates_judgment.jpg
+  link: https://arxiv.org/abs/1901.07024
+  description: Temporal discounting indicates that outcomes at a distance may seem less important to us than closer ones. How do we think about these intertemporal choices in practice? What effects does this have?  We performed the first study of decision making in software projects that asked how software professionals discount future outcomes. Our findings have significant practical implications.
+  repo: 
   tags:
-    - software
+    - decision making
+    - intertemporal choice
+    - cognitive studies
+
+- title: Undecided? A Board Game
+  image: images/undecided.jpg
+  link: https://ppig.org/papers/2020-ppig-31st-becker/
+  description:  In Undecided? A Board Game to study Intertemporal choices in software projects, our team did, well, what the title says. The game facilitates (1) educational exploration of intertemporal choice and (2) studies of intertemporal choice. We plan to release it on Kickstarter in 2023/2024!
+  tags:
+    - decision making
+    - intertemporal choice
+    - cognitive studies
+
+- title: Civic Tech Toronto
+  image: images/toronto.png
+  link: https://doi.org/10.1145/3579462
+  description: In this long-running study of Civic Tech Toronto, we show how this community designs civic technology in a way that allows community members and others to engage with democratic governance outside of the conventional transactions of representative democracy.
+  tags:
+    - civic tech
+    - community based research
+    - CSCW
+
+- title: Sidewalk and Toronto
+  image: images/toronto.png
+  link: https://arxiv.org/abs/1906.02266
+  description: This award-winning paper used Critical Systems Heuristics (CSH) to examine the design of Sidewalk Toronto, a previously planned smart city development.
+  repo: 
+  tags:
+    - critical systems thinking
+    - smart cities
+    - case study
+
