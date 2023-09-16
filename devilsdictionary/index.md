@@ -12,12 +12,12 @@ nav:
 
 >#### Assumptions, n. pl.
 >
-> [Facts](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#facts-n-pl) about the project at the time of [kickoff](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#kick-off-n).
+> [Facts](https://#facts-n-pl) about the project at the time of [kickoff](https://#kick-off-n).
 >> Source: Insolvent, p.154 
 
 >#### Conflict, n.
 >
-> Something that does not match up and needs to be fixed. Typically identified between (a) alternative design solutions for a given [problem](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#problem-n) easily addressed by identifying and [modelling](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#models-n-pl) the costs, benefits and risks and then trading them off [rationally](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#rationality-n) to select the optimum choice (that’s what engineers do); or (b) between development branches. (May the wrath of the gods be upon you in eternity while you slowly roast in hell.) Other forms of conflict are invalid and [irrational](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#rationality-n).
+> Something that does not match up and needs to be fixed. Typically identified between (a) alternative design solutions for a given [problem](https://#problem-n) easily addressed by identifying and [modelling](https://#models-n-pl) the costs, benefits and risks and then trading them off [rationally](https://#rationality-n) to select the optimum choice (that’s what engineers do); or (b) between development branches. (May the wrath of the gods be upon you in eternity while you slowly roast in hell.) Other forms of conflict are invalid and [irrational](https://#rationality-n).
 >> Source: Insolvent, p.198
 
 >#### Facts, n. pl.
@@ -27,12 +27,12 @@ nav:
 
 >#### Fix, n. & v.
 >
-> The source of tomorrow’s [problems](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#problem-n).
+> The source of tomorrow’s [problems](https://#problem-n).
 >> Source: Insolvent, p.13
 
 >#### Goal Modeling, n.
 >
-> The illusion that everything that matters can be represented as an instrumental achievement to be met; the delusion that anything that can not be represented as an instrumental achievement to be met cannot possibly matter. Both are common in [requirements engineering](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#requirements-engineering-n).
+> The illusion that everything that matters can be represented as an instrumental achievement to be met; the delusion that anything that can not be represented as an instrumental achievement to be met cannot possibly matter. Both are common in [requirements engineering](https://#requirements-engineering-n).
 >> Source: Insolvent, p.233
 
 >#### Human, n.
@@ -47,12 +47,12 @@ nav:
 
 >#### Irrationality, n.
 >
-> Those parts of [human](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#human-n) life that rationality has no access to.
+> Those parts of [human](https://#human-n) life that rationality has no access to.
 >> Source: Insolvent, p.102 and 179
 
 >#### Judgement, n.
 >
-> That which is [irrational](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#irrationality-n) in [human](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#human-n) reasoning.
+> That which is [irrational](https://#irrationality-n) in [human](https://#human-n) reasoning.
 >> Source: Insolvent, p.102
 
 >#### Kick-Off, n.
@@ -67,7 +67,7 @@ nav:
 
 >#### Problem, n.
 >
-> Something that can be [fixed](https://scd-github.github.io/jsd-lab-website-template/insolvent/devil%20dictionary/#fix-n--v) or solved.
+> Something that can be [fixed](https://#fix-n--v) or solved.
 >> Source: Insolvent, p.13 and 198
 
 >#### Problem-solving, n.
