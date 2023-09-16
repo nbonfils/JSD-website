@@ -12,12 +12,12 @@ nav:
 
 >#### Assumptions, n. pl.
 >
-> [Facts](https://#facts-n-pl) about the project at the time of [kickoff](https://#kick-off-n).
+> [Facts](#facts-n-pl) about the project at the time of [kickoff](#kick-off-n).
 >> Source: Insolvent, p.154 
 
 >#### Conflict, n.
 >
-> Something that does not match up and needs to be fixed. Typically identified between (a) alternative design solutions for a given [problem](https://#problem-n) easily addressed by identifying and [modelling](https://#models-n-pl) the costs, benefits and risks and then trading them off [rationally](https://#rationality-n) to select the optimum choice (that’s what engineers do); or (b) between development branches. (May the wrath of the gods be upon you in eternity while you slowly roast in hell.) Other forms of conflict are invalid and [irrational](https://#rationality-n).
+> Something that does not match up and needs to be fixed. Typically identified between (a) alternative design solutions for a given [problem](#problem-n) easily addressed by identifying and [modelling](#models-n-pl) the costs, benefits and risks and then trading them off [rationally](#rationality-n) to select the optimum choice (that’s what engineers do); or (b) between development branches. (May the wrath of the gods be upon you in eternity while you slowly roast in hell.) Other forms of conflict are invalid and [irrational](#rationality-n).
 >> Source: Insolvent, p.198
 
 >#### Facts, n. pl.
@@ -27,12 +27,12 @@ nav:
 
 >#### Fix, n. & v.
 >
-> The source of tomorrow’s [problems](https://#problem-n).
+> The source of tomorrow’s [problems](#problem-n).
 >> Source: Insolvent, p.13
 
 >#### Goal Modeling, n.
 >
-> The illusion that everything that matters can be represented as an instrumental achievement to be met; the delusion that anything that can not be represented as an instrumental achievement to be met cannot possibly matter. Both are common in [requirements engineering](https://#requirements-engineering-n).
+> The illusion that everything that matters can be represented as an instrumental achievement to be met; the delusion that anything that can not be represented as an instrumental achievement to be met cannot possibly matter. Both are common in [requirements engineering](#requirements-engineering-n).
 >> Source: Insolvent, p.233
 
 >#### Human, n.
@@ -47,12 +47,12 @@ nav:
 
 >#### Irrationality, n.
 >
-> Those parts of [human](https://#human-n) life that rationality has no access to.
+> Those parts of [human](#human-n) life that rationality has no access to.
 >> Source: Insolvent, p.102 and 179
 
 >#### Judgement, n.
 >
-> That which is [irrational](https://#irrationality-n) in [human](https://#human-n) reasoning.
+> That which is [irrational](#irrationality-n) in [human](#human-n) reasoning.
 >> Source: Insolvent, p.102
 
 >#### Kick-Off, n.
@@ -67,7 +67,7 @@ nav:
 
 >#### Problem, n.
 >
-> Something that can be [fixed](https://#fix-n--v) or solved.
+> Something that can be [fixed](#fix-n--v) or solved.
 >> Source: Insolvent, p.13 and 198
 
 >#### Problem-solving, n.
