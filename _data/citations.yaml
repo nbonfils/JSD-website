@@ -21,7 +21,7 @@
   title: 'Pathways to urban sustainability: Design perspectives on a data curation
     and visualization platform'
   authors:
-  - Eshta Bhardwaj
+  - Esta Bhardwaj
   - Han Qiao
   - Christoph Becker
   publisher: Ninth Computing within Limits 2023
@@ -90,12 +90,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: url:https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
-  title: It’s time to defund Big Tech and empower communities
-  authors: 
-  - Christoph Becker
-  - Andrew Clement
-  publisher: Toronto Star
-  date: '2021-02-24'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
   type: article
   plugin: sources.py
