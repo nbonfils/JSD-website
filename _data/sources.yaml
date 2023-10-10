@@ -1,5 +1,12 @@
 - id: url:https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
   type: article
+  title: It’s time to defund Big Tech and empower communities
+  authors:
+    - Christoph Becker
+    - Andrew Clement
+  publisher: The Toronto Star
+  date: '2021-02-24'
+  link: https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
 
 - id: url:https://archivaria.ca/index.php/archivaria/article/view/13628
   type: paper
@@ -166,6 +173,10 @@
   type: journal
 
 - id: doi:10.21428/bf6fb269.541455de
+  authors:
+    - Eshta Bhardwaj
+    - Han Qiao
+    - Christoph Becker
   image: images/limits 2023.png
   date: '2023-06-14'
   tags:
