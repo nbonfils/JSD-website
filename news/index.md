@@ -6,8 +6,6 @@ nav:
 ---
 
 {%
-  include list.html
-  data="posts"
-  component="post-excerpt"
-  style="rich"
+  include post-excerpt.html
+  lookup="2023-11-14-dcml-ra-jobpost"
 %}
