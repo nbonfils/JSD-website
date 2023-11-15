@@ -5,9 +5,7 @@ nav:
   tooltip: Latest Updates
 ---
 
-{% include section.html dark=true %}
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
-
 {%
+  include post-excerpt.html
   lookup="2023-11-14-dcml-ra-jobpost"
 %}
