@@ -8,7 +8,7 @@ For the project **Evaluation of Data Curation in Machine Learning**, conducted b
 Compensation: Stipend or casual RA contract ($35/hr)
 Effort: about ~50-100h (some flexibility)
 Timeline: Stage 1 is time sensitive, to be completed by mid December (<20 hours). Stage 2 is more flexible and will take place in the first half of winter term.
-
+<!-- excerpt end-->
 **Description:**
 Our study evaluates existing dataset development processes within machine learning research and develops a method for increasing transparency and improving the documentation of dataset development.
 
@@ -25,5 +25,3 @@ Successful candidates will be invited to become co-authors of the resulting rese
 Contact Prof. Christoph Becker at <a href: "mailto:christoph.becker@utoronto.ca">christoph.becker@utoronto.ca</a> right away. 
 Applicants will be considered on a rolling basis.
 
-
-<!-- excerpt end-->
