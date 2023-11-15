@@ -26,6 +26,6 @@ Successful candidates will be invited to become co-authors of the resulting rese
 - Preferred: Good knowledge of benchmarking in ML
 - Preferred: Current graduate student in a field related to the study
 
-Contact Prof. Christoph Becker at [christoph.becker@utoronto.ca](mailto:christoph.becker@utoronto.ca) right away. 
+Interested candidates should contact Prof. Christoph Becker at [christoph.becker@utoronto.ca](mailto:christoph.becker@utoronto.ca) with their CV/resume and a statement of interest right away.
 Applicants will be considered on a rolling basis.
 
