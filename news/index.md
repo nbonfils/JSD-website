@@ -7,5 +7,5 @@ nav:
 
 {%
   include post-excerpt.html
-  lookup="2023-11-14-dcml-ra-jobpost"
+  lookup="dcml-ra-jobpost"
 %}
