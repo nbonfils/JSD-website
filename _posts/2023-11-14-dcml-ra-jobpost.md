@@ -2,11 +2,11 @@
 title: Research Assistant Job Posting
 author: christoph-becker
 last_modified_at: ""
+excerpt_separator: <!--more-->
 ---
 
-<!-- excerpt start -->
 For the project **Evaluation of Data Curation in Machine Learning**, conducted by Eshta Bhardwaj, Christoph Becker, and Tegan Rajkumar-Maharaj, we are seeking up to four RA positions immediately, for the coming months. 
-<!-- excerpt end-->
+<!--more-->
 
 **Compensation:** Stipend or casual RA contract ($35/hr)
 
