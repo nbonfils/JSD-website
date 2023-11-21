@@ -183,9 +183,11 @@
 
 - id: doi:10.1016/j.envsoft.2023.105879
   type: journal
+  date: '2023-11-21'
 
 - id: doi:10.1016/j.ecoinf.2022.101918
   type: journal
+  date: '2022-11-12'
 
 - id: doi:10.1007/s00799-021-00311-0
   type: paper
