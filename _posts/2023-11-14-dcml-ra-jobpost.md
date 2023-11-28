@@ -2,6 +2,8 @@
 title: Research Assistant Job Posting
 author: christoph-becker
 last_modified_at: ""
+tags: 
+  - closed
 excerpt: For an evaluation of data curation in machine learning, conducted by Eshta Bhardwaj, Christoph Becker, and Tegan Rajkumar-Maharaj, we are seeking up to four RA positions immediately, for the coming months. 
 ---
 
