@@ -12,7 +12,7 @@
   - Christoph Becker
   publisher: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and
     Transparency
-  date: '2024-06-03'
+  date: ''
   link: https://doi.org/gtxzw8
   orcid: 0000-0002-8364-0593
   plugin: sources.py
@@ -116,7 +116,7 @@
   - Han Qiao
   - Christoph Becker
   publisher: Tenth Computing within Limits 2024
-  date: '2024-06-18'
+  date: ''
   link: https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
   type: paper
   tags:
