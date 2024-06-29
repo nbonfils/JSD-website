@@ -10,12 +10,14 @@
   - Ciara Zogheib
   - Tegan Maharaj
   - Christoph Becker
-  publisher: The 2024 ACM Conference on Fairness, Accountability, and Transparency
-  date: '2024-06-03'
+  publisher: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and
+    Transparency
+  date: ''
   link: https://doi.org/gtxzw8
   orcid: 0000-0002-8364-0593
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1145/3608115
   title: How Viable are Energy Savings in Smart Homes? A Call to Embrace Rebound Effects
     in Sustainable HCI
@@ -106,6 +108,21 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
+- id: url:https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
+  title: 'Limits at a Distance: Design Directions to Address Psychological Distance
+    in Policy Decisions Affecting Planetary Boundaries'
+  authors:
+  - Eshta Bhardwaj
+  - Han Qiao
+  - Christoph Becker
+  publisher: LIMITS
+  date: ''
+  link: https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
+  type: paper
+  tags:
+  - limits 2024
+  plugin: sources.py
+  file: sources.yaml
 - id: url:https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
   title: "It\u2019s time to defund Big Tech and empower communities"
   authors:
