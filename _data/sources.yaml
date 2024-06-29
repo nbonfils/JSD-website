@@ -1,17 +1,3 @@
-- id: url:https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
-  type: paper
-  title: 'Limits at a Distance: Design Directions to Address Psychological Distance in Policy Decisions Affecting Planetary Boundaries'
-  authors:
-    - Eshta Bhardwaj
-    - Han Qiao
-    - Christoph Becker
-  publisher: Tenth Computing within Limits 2024
-  date: '2024-06-18'
-  tags:
-    - limits 2024
-  image: images/limits24_psychdist.png
-  link: https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
-
 - id: doi:10.1145/3630106.3658955
   type: paper
   title: 'Machine learning data practices through a data curation lens: An evaluation framework'
@@ -23,7 +9,21 @@
     - Tegan Maharaj
     - Christoph Becker
   publisher: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency
-  date: '2024-06-03'
+  date: '2024'
+
+- id: url:https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
+  type: paper
+  title: 'Limits at a Distance: Design Directions to Address Psychological Distance in Policy Decisions Affecting Planetary Boundaries'
+  authors:
+    - Eshta Bhardwaj
+    - Han Qiao
+    - Christoph Becker
+  publisher: Tenth Computing within Limits 2024
+  date: '2024'
+  tags:
+    - limits 2024
+  image: images/limits24_psychdist.png
+  link: https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
 
 - id: url:https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
   type: article
