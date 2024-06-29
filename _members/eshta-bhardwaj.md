@@ -7,9 +7,7 @@ group:
 links:
   home-page: https://eshtabhardwaj.wordpress.com/
   linkedin: /eshta-bhardwaj/
+  google-scholar: https://scholar.google.com/citations?user=82EjcekAAAAJ&hl=en
 ---
 
-Eshta Bhardwaj is a PhD student at the Faculty of Information at the University of Toronto. Her research focuses on the role of data practices in judgment and decision-making for wicked problems with qualities such as incommensurability, psychological distance, and moral hazard. She aims to develop design interventions that allow experts to make better climate change-related decisions using data.
-
-
-
+Eshta Bhardwaj is a PhD student at the Faculty of Information at the University of Toronto. Her research focuses on the role of data practices within machine learning and how to augment ML dataset development processes with data curation principles, concerns of fairness, accountability, and transparency in “data work” within predictive modelling, and how to design interventions in data practices to aid in decision-making for environmental sustainability.
