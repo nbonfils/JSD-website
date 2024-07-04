@@ -1,7 +1,7 @@
 ---
 title: Insolvent
 nav:
-  order: 4
+  order: 5
   tooltip: All things about Insolvent
 ---
 {% include section.html dark=true %}
