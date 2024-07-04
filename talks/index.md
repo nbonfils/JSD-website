@@ -10,15 +10,17 @@ nav:
 
 {% include section.html %}
 
-<script type="text/markdown">
 Video
 
 <iframe width="800" height="500" src="https://www.youtube.com/embed/C5VwJBE31JY?si=7LHrIJPAy_tPT0A3" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-</script>
+
 <!--
+
+<script type="text/markdown">
+
 Video 1:
 ![](www.youtube.com/watch?v=ENz7aj93Mqs?width=800&height=500)
 
@@ -31,6 +33,7 @@ Video 3:
 
 Video 4: 
 ![](//https://www.youtube.com/watch?v=ENz7aj93Mqs?width=800&height=500)
+</script>
 -->
 
 
