@@ -11,10 +11,9 @@ nav:
 {% include section.html %}
 
 <script type="text/markdown">
+Video
 
-![](https://www.youtube.com/watch?v=ENz7aj93Mqs)
-
-![](//www.youtube.com/watch?v=ENz7aj93Mqs?width=800&height=500)
+![](https://www.youtube.com/watch?v=ENz7aj93Mqs?width=800&height=500)
 
 </script>
 <!--
