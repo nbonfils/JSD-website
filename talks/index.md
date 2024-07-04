@@ -13,7 +13,7 @@ nav:
 <script type="text/markdown">
 Video
 
-![](https://www.youtube.com/watch?v=ENz7aj93Mqs?width=800&height=500)
+![](www.youtube.com/watch?v=ENz7aj93Mqs?width=800&height=500)
 
 </script>
 <!--
