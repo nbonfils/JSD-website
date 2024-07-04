@@ -1,7 +1,7 @@
 ---
 title: Introduction to JSD 
 nav:
-  order: 3
+  order: 4
   tooltip: To learn more about JSD
 ---
 {% include section.html dark=true %}
