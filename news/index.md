@@ -13,13 +13,9 @@ nav:
 {% include search-info.html %}
 
 {%
-  include post-excerpt.html
-  lookup="dcml-ra-jobpost"
-%}
-
-{%
-  include post-excerpt.html
-  lookup="limits2023"
+  include list.html
+  data="posts"
+  component="post-excerpt"
 %}
 
 <!-- all tags -->
