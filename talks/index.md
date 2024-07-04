@@ -67,11 +67,18 @@ Christoph Becker was a respondent for a talk on facilitating archival data reuse
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 <iframe align="left" width="400" height="250" src="https://www.youtube.com/embed/7j8R7M5NgeU?si=MBeuLypwHY0GnmDn" frameborder="1" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe align="left" width="400" height="250" src="https://www.youtube.com/embed/RdQnI-EsZYA?si=7RQLnUbiGxet9BV-" frameborder="1" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
+<div align="right">
+Christoph Becker was invited for several book talks for Insolvent, including the annual University of Toronto Alumni Reunion Week (left) and the 171st Nexa Wednesday at 
+the Nexa Center for Internet and Society (right). 
+</div>
 
 <br>
 <br>
