@@ -5,7 +5,10 @@ nav:
   tooltip: Latest Updates
 ---
 
-{%
-  include post-excerpt.html
-  lookup="dcml-ra-jobpost"
-%}
+{% include search-box.html %}
+
+{% include tags.html tags=site.tags %}
+
+{% include search-info.html %}
+
+{% include list.html data="posts" component="post-excerpt" %}
