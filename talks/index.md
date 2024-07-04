@@ -65,6 +65,7 @@ This was a keynote talk at SICT 2023.
 <div align="right">
 Christoph Becker
 was a respondent for a talk on facilitating archival data reuse at the Archival Education and Research Initiative (AERI) in 2022. 
+</div>
 <br>
 <br>
 <br>
