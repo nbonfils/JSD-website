@@ -5,6 +5,12 @@ nav:
   tooltip: Latest Updates
 ---
 
+{% include search-box.html %}
+
+<!-- select tags -->
+{% include tags.html tags="talk, paper, milestone" %}
+
+{% include search-info.html %}
 
 {%
   include list.html
