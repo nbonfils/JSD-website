@@ -23,9 +23,10 @@ nav:
 {%
   include post-excerpt.html
   lookup="dcml-ra-jobpost"
-  lookup="limits2023"
 %}
-
-
+{%
+  include post-excerpt.html
+  lookup="limits 2023"
+%}
 <!-- all tags -->
 {% include tags.html tags=site.tags %}
