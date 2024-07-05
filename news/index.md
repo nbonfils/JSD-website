@@ -19,19 +19,19 @@ nav:
 %}
 -->
 
-{% include list.html data="posts" component="post-excerpt" %}
 
 <!--
 {%
   include post-excerpt.html
   lookup="dcml-ra-jobpost"
 %}
+-->
 
 {%
   include post-excerpt.html
   lookup="limits-curbcut"
 %}
--->
+
 
 
 <!-- all tags -->
