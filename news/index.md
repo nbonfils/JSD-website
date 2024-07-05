@@ -29,7 +29,7 @@ nav:
 
 {%
   include post-excerpt.html
-  title="LIMITS 2023"
+  title="limits-curbcut"
 %}
 
 
