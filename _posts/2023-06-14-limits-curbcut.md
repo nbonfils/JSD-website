@@ -21,4 +21,4 @@ can be applied to a tool for empowering community efforts and informing decision
 map-based data platform aiming to support communities with sustainability data exploration and information sharing. We unfold the challenges and opportunities 
 in designing during a climate crisis by translating design theories into concrete actions that prioritize community values. 
 
-The full paper can be found <a href="https://doi.org/10.21428/bf6fb269.541455de">here</a>.
+The full paper can be found [here](https://doi.org/10.21428/bf6fb269.541455de).

@@ -7,6 +7,7 @@ tags:
 excerpt: Our paper, Machine Learning Data Practices through a Data Curation Lens: An Evaluation Framework, has been accepted at the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT 2024).
 ---
 
+
 Studies of dataset development in machine learning call for greater attention to the data practices 
 that make model development possible and shape its outcomes. Many argue that the adoption of theory 
 and practices from archives and data curation fields can support greater fairness, accountability, 
@@ -21,7 +22,7 @@ We developed an evaluation rubric and applied it to a sample of NeurIPS papers t
 what we would find. It was accepted at the ACM Conference on Fairness, Accountability, and 
 Transparency (ACM FAccT 2024).
 
-The 12 minute talk is available on [Youtube](https://youtu.be/C5VwJBE31JY?si=lFynqavsAiL8tPpF). 
+The 12 minute talk is available on [YouTube](https://youtu.be/C5VwJBE31JY?si=lFynqavsAiL8tPpF). 
 The paper can be read [here](
 https://doi.org/10.1145/3630106.3658955).
 
