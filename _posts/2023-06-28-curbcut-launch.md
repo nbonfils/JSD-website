@@ -3,7 +3,7 @@ title: Curbcut Toronto Launch
 author: eshta-bhardwaj
 last_modified_at: ""
 tags: 
-  - paper
+  - talk
 excerpt: We're excited to share the first look at Curbcut Toronto through a short workshop showcasing its map-based spatial and analytical features.
 ---
 
