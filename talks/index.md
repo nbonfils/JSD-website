@@ -28,7 +28,6 @@ decisions more tangible and visceral. It was accepted at the <a href="https://co
 </div>
 <br>
 <br>
-<br>
 
 <iframe align="left" width="400" height="250" src="https://www.youtube.com/embed/C5VwJBE31JY?si=7LHrIJPAy_tPT0A3" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div align="right">
@@ -56,8 +55,6 @@ social justice, and the intersection of the two, and explains why designing IT f
 technically and ethically challenging. The talk then covers how we can reorient design perspectives in computer science to better align with the values of sustainability and justice.
 This was a keynote talk at SICT 2023. 
 </div>
-<br>
-<br>
 <br>
 <br>
 <br>
