@@ -11,11 +11,21 @@ nav:
 {% include tags.html tags="talk, paper, milestone" %}
 
 {% include search-info.html %}
-
+<!--
 {%
   include list.html
   data="posts"
   component="post-excerpt"
+%}
+-->
+{%
+  include post-excerpt.html
+  title="Research Assistant Job Posting"
+%}
+
+{%
+  include post-excerpt.html
+  title="LIMITS 2023"
 %}
 
 <!-- all tags -->
