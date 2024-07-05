@@ -22,12 +22,12 @@ nav:
 
 {%
   include post-excerpt.html
-  title="dcml-ra-jobpost"
+  lookup="dcml-ra-jobpost"
 %}
 
 {%
   include post-excerpt.html
-  title="limits2023"
+  lookup="limits2023"
 %}
 
 
