@@ -13,9 +13,9 @@ nav:
 {% include search-info.html %}
 <!--
 {%
-  include list.html
-  data="posts"
-  component="post-excerpt"
+  include list.html 
+  data="posts" 
+  component="post-excerpt" 
 %}
 -->
 
@@ -27,7 +27,7 @@ nav:
 
 {%
   include post-excerpt.html
-  lookup="limits2023"
+  lookup="limits-curbcut"
 %}
 
 
