@@ -19,5 +19,4 @@ using her multidisciplinary knowledge. She is especially interested
 in design justice and the role it plays in designing inclusive 
 products and services for everyone. She is drawn to design justice 
 because it enables her to combine her passions of technology and 
-social justice. You can connect with Monica on LinkedIn 
-at https://www.linkedin.com/in/iqbalmonica/.
+social justice. You can connect with Monica on [LinkedIn](https://www.linkedin.com/in/iqbalmonica/).
