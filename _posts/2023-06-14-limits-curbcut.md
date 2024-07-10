@@ -2,8 +2,6 @@
 title: LIMITS 2023
 author: han-qiao
 last_modified_at: ""
-tags: 
-  - paper
 excerpt: Our paper, Pathways to urban sustainability: Design perspectives on a data curation and visualization platform, has been accepted at the Ninth Computing Within Limits Workshop (LIMITS 2023).
 ---
 
