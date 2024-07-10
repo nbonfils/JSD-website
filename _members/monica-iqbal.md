@@ -6,6 +6,8 @@ role: MI Student, Faculty of Information
 group: 
 links:
   linkedin: /iqbalmonica/
+  email: monica.iqbal@mail.utoronto.ca
+
 ---
 
 Monica is a Master of Information candidate, specializing in user 
