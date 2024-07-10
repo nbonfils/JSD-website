@@ -4,7 +4,7 @@ author: eshta-bhardwaj
 last_modified_at: ""
 tags: 
   - talk
-excerpt: 'We are excited to share the first look at Curbcut Toronto through a short workshop showcasing its map-based spatial and analytical features.'
+excerpt: "We are excited to share the first look at Curbcut Toronto through a short workshop showcasing its map-based spatial and analytical features."
 ---
 
 An overview, introduction and demo of [Curbcut Toronto](https://toronto.curbcut.ca/), recorded at the DCI launch event in June 2023.

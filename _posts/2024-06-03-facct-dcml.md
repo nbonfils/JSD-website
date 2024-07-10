@@ -4,9 +4,8 @@ author: eshta-bhardwaj
 last_modified_at: ""
 tags: 
   - paper
-excerpt: Our paper, Machine Learning Data Practices through a Data Curation Lens: An Evaluation Framework, has been accepted at the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT 2024).
+excerpt: "Our paper, Machine Learning Data Practices through a Data Curation Lens: An Evaluation Framework, has been accepted at the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT 2024)."
 ---
-
 
 Studies of dataset development in machine learning call for greater attention to the data practices 
 that make model development possible and shape its outcomes. Many argue that the adoption of theory 
