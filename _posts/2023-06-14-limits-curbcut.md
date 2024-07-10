@@ -1,8 +1,8 @@
 ---
-title: LIMITS 2023
-author: han-qiao
+title: "LIMITS 2023"
+author: "han-qiao"
 last_modified_at: ""
-excerpt: Our paper, Pathways to urban sustainability: Design perspectives on a data curation and visualization platform, has been accepted at the Ninth Computing Within Limits Workshop (LIMITS 2023).
+excerpt: "Our paper, Pathways to urban sustainability: Design perspectives on a data curation and visualization platform, has been accepted at the Ninth Computing Within Limits Workshop (LIMITS 2023)."
 ---
 
 Current computing methods addressing climate change employ open data platforms, interactive maps, and predictive modeling to support policy analysis, 
