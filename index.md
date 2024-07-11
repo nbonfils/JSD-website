@@ -26,8 +26,13 @@ Our research activities involve:
 
 ## Who We Are
 ### Current Members
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: professor, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: masters, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
 [##]: #
 
