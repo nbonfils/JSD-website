@@ -3,6 +3,8 @@ name: Monica Iqbal
 image: images/Monica.jpg
 description: MI Student, Faculty of Information
 role: MI Student, Faculty of Information
+aliases: 
+	- Monica Iqbal
 group: 
 links:
   linkedin: /iqbalmonica/

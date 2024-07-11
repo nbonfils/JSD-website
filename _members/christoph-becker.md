@@ -4,7 +4,9 @@ image: images/Christoph Becker_copyright.png
 description: Professor, Faculty of Information and School of the Environment
 role: Professor
 aliases:
-  - 
+  - Christoph Becker
+  - C. Becker
+  - C Becker
 links:
   home-page: https://www.christoph-becker.info/
   orcid: 0000-0002-8364-0593
