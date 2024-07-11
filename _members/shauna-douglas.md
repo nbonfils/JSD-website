@@ -1,7 +1,7 @@
 ---
 name: Shauna Douglas
 image: images/Shauna.jpg
-description: MI Student, Faculty of Information
+description: MI Student (2023)
 role: masters
 aliases: 
   - Shauna Douglas
