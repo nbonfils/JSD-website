@@ -4,6 +4,7 @@ author: eshta-bhardwaj
 last_modified_at: ""
 tags: 
   - paper
+  - talk
 excerpt: "Our paper, Machine Learning Data Practices through a Data Curation Lens: An Evaluation Framework, has been accepted at the ACM 
 Conference on Fairness, Accountability, and Transparency (ACM FAccT 2024). See full post for the links to the final paper and recorded talk."
 ---
