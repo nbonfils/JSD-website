@@ -8,4 +8,4 @@ excerpt: "My book, INSOLVENT: How to Reorient Computing for Just Sustainability,
 ---
 
 My book 'INSOLVENT: How to Reorient Computing for Just Sustainability' is a finalist in the PROSE Awards in the Engineering and Technology category :raised_hands:! If you missed it, it's still [open access]
-(https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just). You can find more information about the book [here](../insolvent). 
+(https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just). You can find more information about the book [here](https://justsustainabilitydesign.org/insolvent/). 
