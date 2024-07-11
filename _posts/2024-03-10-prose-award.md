@@ -4,7 +4,7 @@ author: christoph-becker
 last_modified_at: ""
 tags: 
   - milestone
-excerpt: "My book 'INSOLVENT: How to Reorient Computing for Just Sustainability' is a finalist in the PROSE Awards in the Engineering and Technology category." 
+excerpt: "My book, INSOLVENT: How to Reorient Computing for Just Sustainability, is a finalist in the PROSE Awards in the Engineering and Technology category." 
 ---
 
 My book 'INSOLVENT: How to Reorient Computing for Just Sustainability' is a finalist in the PROSE Awards in the Engineering and Technology category :raised_hands:! If you missed it, it's still [open access]
