@@ -2,7 +2,7 @@
 name: Han Qiao
 image: images/han.jpg
 description: PhD Student, Faculty of Information
-role: PhD Student, Faculty of Information
+role: phd
 aliases: 
   - Han Qiao
 links:

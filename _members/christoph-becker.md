@@ -2,7 +2,7 @@
 name: Christoph Becker
 image: images/Christoph Becker_copyright.png
 description: Professor, Faculty of Information and School of the Environment
-role: Professor
+role: professor
 aliases:
   - Christoph Becker
   - C. Becker

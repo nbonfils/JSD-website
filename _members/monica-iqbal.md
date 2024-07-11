@@ -2,7 +2,7 @@
 name: Monica Iqbal
 image: images/Monica.jpg
 description: MI Student, Faculty of Information
-role: MI Student, Faculty of Information
+role: masters
 aliases: 
   - Monica Iqbal
 group: 

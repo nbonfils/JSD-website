@@ -1,11 +1,11 @@
 ---
 name: Shauna Douglas
 image: images/Shauna.jpg
-description: Masters Student, Faculty of Information
-role: Research Assistant, Faculty of Information
-group: 
+description: MI Student, Faculty of Information
+role: masters
 links:
   github: 
+group: alum
 ---
 
 Shauna Douglas is a final year Master of Information student specializing in Information System and Design.
