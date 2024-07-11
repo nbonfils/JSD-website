@@ -13,7 +13,7 @@ We are faculty members and students of the Faculty of Information at the Univers
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: professor, group: " %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: masters, group: " %}
@@ -24,7 +24,7 @@ We are faculty members and students of the Faculty of Information at the Univers
 
 ## Alumni
 #### 2023
-{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: professor, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
