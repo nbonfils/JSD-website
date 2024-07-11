@@ -4,7 +4,7 @@ image: images/Eshta.png
 description: PhD Student, Faculty of Information
 role: PhD Student, Faculty of Information
 aliases: 
-	- Eshta Bhardwaj
+  - Eshta Bhardwaj
 group: 
 links:
   home-page: https://eshtabhardwaj.wordpress.com/
