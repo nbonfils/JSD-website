@@ -4,7 +4,7 @@ image: images/han.jpg
 description: PhD Student, Faculty of Information
 role: PhD Student, Faculty of Information
 aliases: 
-	- Han Qiao
+  - Han Qiao
 links:
   email: h.qiao@mail.utoronto.ca
 ---
