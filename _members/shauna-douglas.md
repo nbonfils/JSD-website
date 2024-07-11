@@ -3,6 +3,8 @@ name: Shauna Douglas
 image: images/Shauna.jpg
 description: MI Student, Faculty of Information
 role: masters
+aliases: 
+  - Shauna Douglas
 group: alum
 ---
 
