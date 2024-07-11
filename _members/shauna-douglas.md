@@ -3,8 +3,6 @@ name: Shauna Douglas
 image: images/Shauna.jpg
 description: MI Student, Faculty of Information
 role: masters
-links:
-  github: 
 group: alum
 ---
 
