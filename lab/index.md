@@ -21,6 +21,14 @@ We are faculty members and students of the Faculty of Information at the Univers
 {% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
+## Affiliates
+{% include list.html data="members" component="portrait" filters="role: professor, group: affiliates" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: affiliates" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: affiliates" %}
+{% include list.html data="members" component="portrait" filters="role: masters, group: affiliates" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: affiliates" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: affiliates" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: affiliates" %}
 
 ## Alumni
 {% include list.html data="members" component="portrait" filters="role: professor, group: alum" %}
