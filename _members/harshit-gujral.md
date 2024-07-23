@@ -7,7 +7,7 @@ aliases:
 group: affiliates
 links:
   home-page: http://iharshit.in/
-  linkedin: /harshitgujral/
+  linkedin: harshitgujral/
 ---
 
 Harshit Gujral is a trained Data Scientist who is currently pursuing a Ph.D. in Computer Science at the University of Toronto. 
