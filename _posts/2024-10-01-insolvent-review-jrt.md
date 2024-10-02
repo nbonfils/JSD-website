@@ -2,7 +2,7 @@
 title: Insolvent reviewed in Journal of Responsible Technology.
 author: christoph-becker
 last_modified_at: ""
-excerpt: "Insolvent was reviewed in the Journal of Responsible Technology, see full post for details."
+excerpt: "Insolvent was reviewed in the Journal of Responsible Technology, see full post for details"
 ---
 
 My book "Insolvent" was reviewed at length in the Journal of Responsible Technology by a very capable team of researchers. 
