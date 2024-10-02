@@ -362,7 +362,7 @@
   - A. Caetano
   publisher: International Conference on Digital Preservation (IPRES)
   date: '2020-01-01'
-  link: http://benchmark-dp.org/
+  link: http://benchmark-dp.org/caiwipres/
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -854,7 +854,7 @@
   authors:
   - Artur Kulmukhametov
   - Christoph Becker
-  publisher: "The Emergence of Digital Libraries \u2013 Research and Practices"
+  publisher: Lecture Notes in Computer Science
   date: '2014-01-01'
   link: https://doi.org/gsnt8j
   type: paper
