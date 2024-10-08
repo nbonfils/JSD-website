@@ -23,3 +23,5 @@ title: Framework to Evaluate Data Curation in Machine Learning
   text="Get in Touch"
   link="https://justsustainabilitydesign.org/datacurationinML/getintouch"%}
  
+{% include section.html %}
+## Evaluation Framework
