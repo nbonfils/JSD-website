@@ -23,8 +23,9 @@ title: Data Curation in Machine Learning
   type=""
   text="Get in Touch"
   link="https://justsustainabilitydesign.org/datacurationinML/getintouch"%}
-  
- ## Project Overview
+ 
+{% include section.html %}
+## Project Overview
  
  
  
