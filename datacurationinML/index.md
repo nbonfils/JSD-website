@@ -2,7 +2,7 @@
 title: Data Curation in Machine Learning
 ---
 
-{% include section.html %}
+{% include section.html dark=true size=wide %}
 # Data Curation in Machine Learning
 
 {%
@@ -23,3 +23,8 @@ title: Data Curation in Machine Learning
   type=""
   text="Get in Touch"
   link="https://justsustainabilitydesign.org/datacurationinML/getintouch"%}
+  
+ ## Project Overview
+ 
+ 
+ 
