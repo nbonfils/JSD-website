@@ -48,4 +48,4 @@ carousels:
 {% include section.html %}
 ## Evaluation Framework
 
-{% include carousel.html height="35" unit="%" duration="" number="1" %}
+{% include carousel.html height="50" unit="%" duration="" number="1" %}
