@@ -2,13 +2,13 @@
 title: Framework to Evaluate Data Curation in Machine Learning
 carousels:
   - images: 
-    - image: /images/dcml_slider/Slide1.png
-    - image: /images/dcml_slider/Slide2.png
-    - image: /images/dcml_slider/Slide3.png
-    - image: /images/dcml_slider/Slide4.png
-    - image: /images/dcml_slider/Slide5.png
-    - image: /images/dcml_slider/Slide6.png
-    - image: /images/dcml_slider/Slide7.png
+    - image: /images/dcml_slider/Slide1.PNG
+    - image: /images/dcml_slider/Slide2.PNG
+    - image: /images/dcml_slider/Slide3.PNG
+    - image: /images/dcml_slider/Slide4.PNG
+    - image: /images/dcml_slider/Slide5.PNG
+    - image: /images/dcml_slider/Slide6.PNG
+    - image: /images/dcml_slider/Slide7.PNG
 
 ---
 {% include section.html dark=true size=wide %}
