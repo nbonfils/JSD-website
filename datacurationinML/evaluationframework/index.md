@@ -2,8 +2,8 @@
 title: Framework to Evaluate Data Curation in Machine Learning
 carousels:
   - images: 
-    - image: /images/dcml_slider/Slide1.jpg
-    - image: /images/dcml_slider/Slide2.jpg
+    - image: /images/dcml_slider/Slide1.png
+    - image: /images/dcml_slider/Slide2.png
 
 ---
 {% include section.html dark=true size=wide %}
@@ -31,4 +31,4 @@ carousels:
 {% include section.html %}
 ## Evaluation Framework
 
-{% include carousel.html height="200" width="100" carouselControlSize="20" unit="px" number="1" %}
+{% include carousel.html height="40%" carouselControlSize="20px" noOfSlides="19" number="1" %}
