@@ -12,6 +12,13 @@ carousels:
     - image: /images/dcml_slider/Slide8.png
     - image: /images/dcml_slider/Slide9.png
     - image: /images/dcml_slider/Slide10.png
+    - image: /images/dcml_slider/Slide11.png
+    - image: /images/dcml_slider/Slide12.png
+    - image: /images/dcml_slider/Slide13.png
+    - image: /images/dcml_slider/Slide14.png
+    - image: /images/dcml_slider/Slide15.png
+    - image: /images/dcml_slider/Slide16.png
+
 ---
 {% include section.html dark=true size=wide %}
 # Data Curation in Machine Learning
@@ -38,4 +45,4 @@ carousels:
 {% include section.html %}
 ## Evaluation Framework
 
-{% include carousel.html height="70%" carouselControlSize="20px" noOfSlides="19" number="1" %}
+{% include carousel.html size=full height="50%" carouselControlSize="20px" noOfSlides="19" number="1" %}
