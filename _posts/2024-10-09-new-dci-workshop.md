@@ -5,7 +5,6 @@ last_modified_at: ""
 tags:
   - event
   - talk
-image: images/jsd_workshop_poster.png
 excerpt: "Our lab, the Just Sustainability Design Lab is hosting an online open workshop session on Sustainable Neighborhoods, Sustainable Cities 
 on October 21, 2024, from 12:30 PM to 2:30 PM. Please see full post for details."
 ---
