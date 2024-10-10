@@ -25,3 +25,6 @@ We encourage participants to share their own ongoing research through 5-minute l
 Register here: [https://forms.office.com/r/cRh93N4hZd](https://forms.office.com/r/cRh93N4hZd)
 
 We look forward to your participation!
+
+{% include figure.html image="images/JSDWorkshopPoster.png" width="100%" %}
+
