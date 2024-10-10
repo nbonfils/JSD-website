@@ -18,6 +18,9 @@ carousels:
     - image: /images/dcml_slider/Slide14.png
     - image: /images/dcml_slider/Slide15.png
     - image: /images/dcml_slider/Slide16.png
+    - image: /images/dcml_slider/Slide17.png
+    - image: /images/dcml_slider/Slide18.png
+    - image: /images/dcml_slider/Slide19.png
 
 ---
 {% include section.html dark=true size=wide %}
@@ -45,4 +48,4 @@ carousels:
 {% include section.html %}
 ## Evaluation Framework
 
-{% include carousel.html size=full height="50%" carouselControlSize="20px" carouselIndicatorSize = "7px" noOfSlides="19" number="1" %}
+{% include carousel.html size=full height="70%" carouselControlSize="20px" carouselIndicatorSize="7px" noOfSlides="19" number="1" %}
