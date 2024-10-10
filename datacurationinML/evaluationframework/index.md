@@ -85,7 +85,13 @@ and a link to the glossary via Google Docs.
 
 {% include carousel.html size=full height="50%" carouselControlSize="20px" carouselIndicatorSize="7px" noOfSlides="19" number="1" %}
 
-#### Documents
+### Documents
 
 [Rubric]({{ https://justsustainabilitydesign.org/ }}/datacurationinML/pdfs/Rubric.pdf)
+<br>
+[Rubric Worksheet]({{ https://justsustainabilitydesign.org/ }}/datacurationinML/pdfs/RubricWorksheet.pdf)
+<br>
+[Toolkit]({{ https://justsustainabilitydesign.org/ }}/datacurationinML/pdfs/Toolkit.pdf)
+<br>
 [Glossary](https://docs.google.com/document/d/1McSg7J-i1xPw-oCKSIFofdPWkO2SoexqX-k57pPWpC4/edit?usp=sharing)
+<br>
