@@ -31,4 +31,4 @@ carousels:
 {% include section.html %}
 ## Evaluation Framework
 
-{% include carousel.html height="200" width="250" carouselControlSize="20" unit="px" number="1" %}
+{% include carousel.html height="200" width="100" carouselControlSize="20" unit="px" number="1" %}
