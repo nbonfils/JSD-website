@@ -22,6 +22,6 @@ Games and Play Lab, who will present her research on storytelling, cultural heri
 
 We encourage participants to share their own ongoing research through 5-minute lightning talks, followed by a collaborative feedback session.
 
-Register here: https://forms.office.com/r/cRh93N4hZd
+Register here: [https://forms.office.com/r/cRh93N4hZd](https://forms.office.com/r/cRh93N4hZd)
 
 We look forward to your participation!
