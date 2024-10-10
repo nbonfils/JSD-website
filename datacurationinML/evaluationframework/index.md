@@ -25,3 +25,5 @@ title: Framework to Evaluate Data Curation in Machine Learning
  
 {% include section.html %}
 ## Evaluation Framework
+
+{% include carousel.html height="50" unit="%" number="1" %}
