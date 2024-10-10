@@ -2,7 +2,6 @@
 title: "Funded PhD student positions for 2025"
 author: christoph-becker
 last_modified_at: ""
-
 excerpt: "The Faculty of Information at UofT offers fully funded PhD student positions to study with me - Come join the Just Sustainability Design Lab! See full post for details"
 ---
 
