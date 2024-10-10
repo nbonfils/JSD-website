@@ -26,5 +26,5 @@ Register here: [https://forms.office.com/r/cRh93N4hZd](https://forms.office.com/
 
 We look forward to your participation!
 
-{% include figure.html image="images/JSDWorkshopPoster.png" width="100%" %}
+{% include figure.html image="images/JSDWorkshopPoster.png" width="60%" %}
 
