@@ -95,7 +95,7 @@
   z-index: 3;
 }
 .carousel__control:hover {
-  opacity: 1;
+  opacity: 0.75;
 }
 .carousel__control--backward {
   left: 20px;
@@ -168,7 +168,7 @@
   width: 30px;
 }
 .carousel__indicator {
-  background-color: #fafafa;
+  background-color: #000000;
 }
 {% for item in page.carousels[number].images %}
 .carousel__slide:nth-of-type({{ forloop.index }}),
