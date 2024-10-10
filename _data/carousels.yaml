@@ -1,5 +1,5 @@
 carousels:
-  - images: 
-    - image: /images/dcmlslider/image1.png
-    - image: /images/dcmlslider/image2.png
-    - image: /images/dcmlslider/image3.jpg
+    images:
+        image: /images/dcmlslider/image1.png
+        image: /images/dcmlslider/image2.png
+        image: /images/dcmlslider/image3.jpg
