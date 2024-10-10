@@ -42,6 +42,7 @@ carousels:
   text="Get in Touch"
   link="https://justsustainabilitydesign.org/datacurationinML/getintouch"%}
  
+{% include section.html %}
 ## Evaluation Framework
 
-{% include carousel.html size=full height="50%" carouselControlSize="20px" noOfSlides="19" number="1" %}
+{% include carousel.html size=full height="50%" carouselControlSize="20px" carouselIndicatorSize = "10px" noOfSlides="19" number="1" %}
