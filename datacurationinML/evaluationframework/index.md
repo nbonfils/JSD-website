@@ -66,8 +66,7 @@ prompting reflection on how and why choices were made and their implications. Th
 category contains ‘suitability’, ‘representativeness’, ‘authenticity’, ‘reliability’, and 
 ‘structured documentation’, to ensure the consideration of a broad set of qualities 
 that impact how well a dataset can 
-be appropriately and responsibly reused. The data management category covers FAIR principles 
-- findability, accessibility, interoperability, and reusability - included to evaluate the transparency 
+be appropriately and responsibly reused. The data management category covers FAIR principles - findability, accessibility, interoperability, and reusability - included to evaluate the transparency 
 of data management considerations. Each rubric element is assessed on minimum standard criteria 
 (with a score of ‘pass’ or ‘fail’) that detail the expected level of documentation. Elements that pass
  the minimum standard are also assessed on a standard of excellence (with a score of ‘full’, ‘partial’,
