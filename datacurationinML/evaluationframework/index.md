@@ -21,7 +21,6 @@ carousels:
     - image: /images/dcml_slider/Slide17.PNG
     - image: /images/dcml_slider/Slide18.PNG
     - image: /images/dcml_slider/Slide19.PNG
-	- image: /images/dcml_slider/Slide20.jpg
 ---
 {% include section.html dark=true size=wide %}
 # Data Curation in Machine Learning
