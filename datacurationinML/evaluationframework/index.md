@@ -21,6 +21,7 @@ carousels:
     - image: /images/dcml_slider/Slide17.PNG
     - image: /images/dcml_slider/Slide18.PNG
     - image: /images/dcml_slider/Slide19.PNG
+	- image: /images/dcml_slider/Slide20.jpg
 ---
 {% include section.html dark=true size=wide %}
 # Data Curation in Machine Learning
@@ -47,4 +48,4 @@ carousels:
 {% include section.html %}
 ## Evaluation Framework
 
-{% include carousel.html height="50" unit="%" number="1" %}
+{% include carousel.html height="35" unit="%" duration="" number="1" %}
