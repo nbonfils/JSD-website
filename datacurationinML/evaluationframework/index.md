@@ -4,6 +4,7 @@ carousels:
   - images: 
     - image: /images/dcml_slider/Slide1.JPG
     - image: /images/dcml_slider/Slide2.JPG
+	<!--
     - image: /images/dcml_slider/Slide3.JPG
     - image: /images/dcml_slider/Slide4.JPG
     - image: /images/dcml_slider/Slide5.JPG
@@ -21,6 +22,7 @@ carousels:
     - image: /images/dcml_slider/Slide17.JPG
     - image: /images/dcml_slider/Slide18.JPG
     - image: /images/dcml_slider/Slide19.JPG
+	-->
 ---
 {% include section.html dark=true size=wide %}
 # Data Curation in Machine Learning
