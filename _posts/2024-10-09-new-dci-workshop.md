@@ -1,6 +1,5 @@
 ---
 title: Workshop: Sustainable Neighbourhoods, Sustainable Cities
-image: images/jsd_workshop_poster.png
 author: han-qiao
 last_modified_at: ""
 tags:
