@@ -47,6 +47,6 @@ In the next phase, we applied the rubric on sample datasets from NeurIPS, the Co
 feasibility and relevance of assessing ML data work using data curation perspectives. We then examined how well data curation is currently performed in 
 ML through a larger evaluation of NeurIPS datasets. 
 
-You can read the full papers for more details about the [first](https://doi.org/10.1145/3630106.3658955) and second phase of projects, 
+You can read the full papers for more details about the [first](https://doi.org/10.1145/3630106.3658955) and second phase of the project, 
 or check out our [recorded talks](https://justsustainabilitydesign.org/talks/). 
 
