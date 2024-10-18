@@ -42,8 +42,8 @@ carousels:
 {%
   include button.html
   type=""
-  text="Get in Touch"
-  link="https://justsustainabilitydesign.org/datacurationinML/getintouch"%}
+  text="About Us"
+  link="https://justsustainabilitydesign.org/datacurationinML/aboutus"%}
  
 {% include section.html %}
 ## Evaluation Framework
@@ -82,6 +82,8 @@ Below we provide the documents for the rubric, rubric worksheet (blank version t
 toolkit, 
 and a link to the glossary via Google Docs. 
 
+
+{% include figure.html image="images/DCML_project.png" width="60%" %}
 {% include carousel.html size=full height="50%" carouselControlSize="20px" carouselIndicatorSize="7px" noOfSlides="19" number="1" %}
 
 ### Documents

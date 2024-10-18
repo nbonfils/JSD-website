@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: About Us
 ---
 {% include section.html dark=true size=wide %}
 # Data Curation in Machine Learning
@@ -20,10 +20,22 @@ title: Get in Touch
 {%
   include button.html
   type=""
-  text="Get in Touch"
-  link="https://justsustainabilitydesign.org/datacurationinML/getintouch"%}
+  text="About Us"
+  link="https://justsustainabilitydesign.org/datacurationinML/aboutus"%}
  
 {% include section.html %}
+
+## Team
+
+{% include portrait.html lookup="eshta-bhardwaj" style="tiny"%} 
+{% include portrait.html lookup="harshit-gujral" style="tiny" %} 
+{% include portrait.html name="Reyna Wu" style="tiny" %} 
+{% include portrait.html lookup="ciara-zogheib" style="tiny" %} 
+{% include portrait.html name="Tegan Maharaj" style="tiny" %} 
+{% include portrait.html lookup="christoph-becker" style="tiny"%} 
+
+{% include section.html %}
+
 ## Get in Touch to Collaborate on the Data Curation in Machine Learning Project!
 
 In the next stages, we want to explore how researchers and practitioners can use the evaluation tool to better understand their curation needs and challenges. 
