@@ -27,12 +27,12 @@ title: About Us
 
 ## Team
 
-{% include portrait.html lookup="eshta-bhardwaj" style="small"%} 
-{% include portrait.html lookup="harshit-gujral" style="small" %} 
-{% include portrait.html name="Reyna Wu" style="small" %} 
-{% include portrait.html lookup="ciara-zogheib" style="small" %} 
-{% include portrait.html name="Tegan Maharaj" style="small" %} 
-{% include portrait.html lookup="christoph-becker" style="small"%} 
+{% include portrait.html lookup="eshta-bhardwaj" style="tiny"%} 
+{% include portrait.html lookup="harshit-gujral" style="tiny" %} 
+{% include portrait.html name="Reyna Wu" style="tiny" %} 
+{% include portrait.html lookup="ciara-zogheib" style="tiny" %} 
+{% include portrait.html name="Tegan Maharaj" style="tiny" %} 
+{% include portrait.html lookup="christoph-becker" style="tiny"%} 
 
 {% include section.html %}
 
