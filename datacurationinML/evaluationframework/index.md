@@ -83,7 +83,7 @@ toolkit,
 and a link to the glossary via Google Docs. 
 
 
-{% include figure.html image="images/DCML_project.png" width="60%" %}
+{% include figure.html image="images/DCML_project2.png" width="60%" %}
 {% include carousel.html size=full height="50%" carouselControlSize="20px" carouselIndicatorSize="7px" noOfSlides="19" number="1" %}
 
 ### Documents
