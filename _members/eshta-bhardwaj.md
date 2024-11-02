@@ -7,7 +7,7 @@ aliases:
   - Eshta Bhardwaj
 group: 
 links:
-  home-page: https://eshtabhardwaj.wordpress.com/
+  home-page: https://eshtab.github.io/
   linkedin: /eshta-bhardwaj/
   google-scholar: https://scholar.google.com/citations?user=82EjcekAAAAJ&hl=en
 ---
