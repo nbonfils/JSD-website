@@ -1,6 +1,6 @@
 ---
 title: "Workshop: Responsible Data Curation and Reuse in the Age of AI"
-author: han-qiao
+author: eshta-bhardwaj
 last_modified_at: ""
 tags:
   - talk
