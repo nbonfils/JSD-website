@@ -10,8 +10,9 @@
     - Christoph Becker
   publisher: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency
   date: '2024-06-03'
+  image: images/DCML_project1.png
 
-  - id: doi:10.48550/arXiv.2410.22473
+- id: doi:10.48550/arXiv.2410.22473
   type: paper
   title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development Practices in the Datasets and Benchmarks Track'
   authors:
@@ -21,8 +22,9 @@
     - Ciara Zogheib
     - Tegan Maharaj
     - Christoph Becker
-  publisher: Advances in Neural Information Processing Systems, 37 (NeurIPS 2024)
+  publisher: 'Advances in Neural Information Processing Systems, 37 (NeurIPS 2024)'
   date: '2024-12-09'
+  image: images/DCML_project2.png
 
 - id: url:https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
   type: paper
