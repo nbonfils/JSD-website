@@ -18,6 +18,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  image: images/DCML_project1.png
 - id: doi:10.1145/3608115
   title: How Viable are Energy Savings in Smart Homes? A Call to Embrace Rebound Effects
     in Sustainable HCI
@@ -108,6 +109,23 @@
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.48550/arXiv.2410.22473
+  title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development
+    Practices in the Datasets and Benchmarks Track'
+  authors:
+  - Eshta Bhardwaj
+  - Harshit Gujral
+  - Siyi Wu
+  - Ciara Zogheib
+  - Tegan Maharaj
+  - Christoph Becker
+  publisher: Advances in Neural Information Processing Systems, 37 (NeurIPS 2024)
+  date: '2024-12-09'
+  link: https://doi.org/g8sgwm
+  type: paper
+  image: images/DCML_project2.png
+  plugin: sources.py
+  file: sources.yaml
 - id: url:https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
   title: 'Limits at a Distance: Design Directions to Address Psychological Distance
     in Policy Decisions Affecting Planetary Boundaries'
