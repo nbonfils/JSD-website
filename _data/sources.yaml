@@ -12,20 +12,6 @@
   date: '2024-06-03'
   image: images/DCML_project1.png
 
-- id: doi:10.48550/arXiv.2410.22473
-  type: paper
-  title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development Practices in the Datasets and Benchmarks Track'
-  authors:
-    - Eshta Bhardwaj
-    - Harshit Gujral
-    - Siyi Wu
-    - Ciara Zogheib
-    - Tegan Maharaj
-    - Christoph Becker
-  publisher: 'Advances in Neural Information Processing Systems, 37 (NeurIPS 2024)'
-  date: '2024-12-09'
-  image: images/DCML_project2.png
-
 - id: url:https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
   type: paper
   title: 'Limits at a Distance: Design Directions to Address Psychological Distance in Policy Decisions Affecting Planetary Boundaries'
@@ -94,6 +80,20 @@
 - id: url:http://hdl.handle.net/2142/73794
   type: paper
   date: '2015-03-15'
+  
+  - id: doi:10.48550/arXiv.2410.22473
+  type: paper
+  title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development Practices in the Datasets and Benchmarks Track'
+  authors:
+    - Eshta Bhardwaj
+    - Harshit Gujral
+    - Siyi Wu
+    - Ciara Zogheib
+    - Tegan Maharaj
+    - Christoph Becker
+  publisher: 'Advances in Neural Information Processing Systems, 37 (NeurIPS 2024)'
+  date: '2024-12-09'
+  image: images/DCML_project2.png
   
 - id: url:https://ppig.org/papers/2020-ppig-31st-becker/
   title: 'Undecided? A Board Game to study Intertemporal choices in software projects'
