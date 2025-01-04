@@ -3,7 +3,7 @@ title: Insolvent receives the Choice "Outstanding Academic Title" Award.
 last_modified_at: ""
 tags: 
   - milestone
-excerpt: "Insolvent receives the Choice "Outstanding Academic Title" Award, see full post for details."
+excerpt: Insolvent receives the Choice "Outstanding Academic Title" Award, see full post for details.
 ---
 
 Christoph's book 'INSOLVENT: How to Reorient Computing for Just Sustainability' 
