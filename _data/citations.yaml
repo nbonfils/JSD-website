@@ -183,26 +183,39 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:https://hdl.handle.net/11353/10.429547
-  title: PHAIDRA - University of Vienna
-  authors: []
-  publisher: ''
+  title: Benchmarks for Digital Preservation Tools
+  authors:
+  - Kresimir Duretec
+  - Artur Kulmukhametov
+  - Andreas Rauber
+  - Christoph Becker
+  publisher: Proceedings of the 12th International Conference on Digital Preservation
   date: '2015-04-16'
   link: https://phaidra.univie.ac.at/detail/o:429547
   type: paper
   plugin: sources.py
   file: sources.yaml
 - id: url:https://hdl.handle.net/11353/10.429553
-  title: PHAIDRA - University of Vienna
-  authors: []
-  publisher: ''
+  title: A Survey of Organizational Assessment Frameworks in Digital Preservation
+  authors:
+  - Emily Maemura
+  - Nathan Moles
+  - Christoph Becker
+  publisher: Proceedings of the 12th International Conference on Digital Preservation
   date: '2015-04-16'
   link: https://phaidra.univie.ac.at/detail/o:429553
   type: paper
   plugin: sources.py
   file: sources.yaml
 - id: url:https://hdl.handle.net/11353/10.378051
-  title: PHAIDRA - University of Vienna
-  authors: []
+  title: 'Open Preservation Data: Controlled vocabularies and ontologies for preservation
+    ecosystems: Paper - iPres 2013 - Lisbon'
+  authors:
+  - Hannes Kulovits
+  - Michael Kraxner
+  - Markus Plangg
+  - Christoph Becker
+  - Sean Bechhofer
   publisher: 10th International Conference on Preservation of Digital Objects (IPRES
     2013)
   date: '2013-01-01'
@@ -211,8 +224,13 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:https://hdl.handle.net/11353/10.378091
-  title: PHAIDRA - University of Vienna
-  authors: []
+  title: 'The SCAPE Planning and Watch suite: Paper - iPres 2013 - Lisbon'
+  authors:
+  - Michael Kraxner
+  - Markus Plangg
+  - Kresimir Duretec
+  - Christoph Becker
+  - "Lu\xEDs Faria"
   publisher: 10th International Conference on Preservation of Digital Objects (IPRES
     2013)
   date: '2013-01-01'
@@ -221,9 +239,13 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:https://hdl.handle.net/11353/10.429621
-  title: PHAIDRA - University of Vienna
-  authors: []
-  publisher: ''
+  title: Benchmarking Forum
+  authors:
+  - Kresimir Duretec
+  - Artur Kulmukhametov
+  - Andreas Rauber
+  - Christoph Becker
+  publisher: Proceedings of the 12th International Conference on Digital Preservation
   date: '2015-06-03'
   link: https://phaidra.univie.ac.at/detail/o:429621
   type: paper
@@ -380,7 +402,7 @@
   - A. Caetano
   publisher: International Conference on Digital Preservation (IPRES)
   date: '2020-01-01'
-  link: http://benchmark-dp.org/caiwipres/
+  link: http://ww16.benchmark-dp.org/caiwipres/?sub1=20250104-1204-311d-871b-20bec541af82
   type: paper
   plugin: sources.py
   file: sources.yaml
