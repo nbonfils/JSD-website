@@ -40,6 +40,17 @@
   image: images/limits24_psychdist.png
   link: https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
 
+  - id: url:https://justsustainabilitydesign.org/2025/01/13/cscw-han-2025.html
+  type: paper
+  title: '“Near Data” and “Far Data” for Urban Sustainability: How Do Community Advocates Envision Data Intermediaries?'
+  authors:
+    - Han Qiao
+    - Siyi Wu
+    - Christoph Becker
+  publisher: The 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2025)
+  date: '2025-01-13'
+  link: https://justsustainabilitydesign.org/2025/01/13/cscw-han-2025.html
+
 - id: url:https://www.thestar.com/opinion/contributors/it-s-time-to-defund-big-tech-and-empower-communities/article_60361bf3-a85c-5598-aac4-798f006f9c42.html
   type: article
   title: 'It’s time to defund Big Tech and empower communities'
