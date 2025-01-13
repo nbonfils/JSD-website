@@ -12,6 +12,16 @@
   date: '2024-06-03'
   image: images/DCML_project1.png
 
+  - id: url:https://justsustainabilitydesign.org/neardatafardata/CSCW2025_Near_Data_Far_Data_CameraReady.pdf
+  type: paper
+  title: 'Near Data and Far Data for Urban Sustainability: How Do Community Advocates Envision Data Intermediaries?'
+  authors:
+    - Han Qiao
+    - Siyi Wu
+    - Christoph Becker
+  publisher: 'The 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCSW 2025)'
+  date: '2025-01-13'
+  
 - id: doi:10.48550/arXiv.2410.22473
   type: paper
   title: 'The State of Data Curation at NeurIPS: An Assessment of Dataset Development Practices in the Datasets and Benchmarks Track'
