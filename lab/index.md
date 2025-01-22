@@ -19,6 +19,7 @@ We are faculty members and students of the Faculty of Information at the Univers
 {% include list.html data="members" component="portrait" filters="role: masters, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
+{% include list.html data="members" component="portrait" filters="role: research-assistant, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
 ## Affiliates
@@ -28,6 +29,7 @@ We are faculty members and students of the Faculty of Information at the Univers
 {% include list.html data="members" component="portrait" filters="role: masters, group: affiliates" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: affiliates" %}
 {% include list.html data="members" component="portrait" filters="role: programmer, group: affiliates" %}
+{% include list.html data="members" component="portrait" filters="role: research-assistant, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: affiliates" %}
 
 ## Alumni
@@ -37,6 +39,7 @@ We are faculty members and students of the Faculty of Information at the Univers
 {% include list.html data="members" component="portrait" filters="role: masters, group: alum" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" %}
 {% include list.html data="members" component="portrait" filters="role: programmer, group: alum" %}
+{% include list.html data="members" component="portrait" filters="role: research-assistant, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: alum" %}
 
 #### 2020
