@@ -25,6 +25,10 @@ undergrad:
 programmer:
   icon: fa-solid fa-code
   description: Programmer
+  
+research-assistant:
+  icon: fa-solid fa-code
+  description: Research Assistant
 
 mascot:
   icon: fa-solid fa-dog
@@ -46,6 +50,11 @@ external:
   icon: fa-solid fa-up-right-from-square
   text: External Link
   tooltip: External link
+  
+uoft:
+  icon: fa-solid fa-up-right-from-square
+  text: UofT Profile
+  tooltip: UofT Profile
 
 home-page:
   icon: fa-solid fa-house-user
