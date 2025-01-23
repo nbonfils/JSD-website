@@ -139,6 +139,11 @@ mastodon:
   tooltip: Mastodon
   link: https://hci.social/@$VALUE
 
+rss:
+  icon: fa-solid fa-square-rss
+  text: RSS
+  tooltip: RSS
+  link: https://justsustainabilitydesign.org/feed.xml
 # alerts
 
 tip:
