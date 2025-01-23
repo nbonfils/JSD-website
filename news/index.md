@@ -6,6 +6,11 @@ nav:
 ---
 {% include section.html %}
 
+{%
+  include button.html
+  type="rss"
+%}
+
 {% include search-box.html %}
 
 {% include tags.html tags=site.tags %}
