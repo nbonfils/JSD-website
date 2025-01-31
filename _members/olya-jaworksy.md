@@ -2,7 +2,7 @@
 name: Olya Jaworsky
 image: images/Olya.jpeg
 description: MI Student, Faculty of Information
-role: masters
+role: research-assistant
 aliases: 
   - Olya Jaworsky
   - O Jaworsky
