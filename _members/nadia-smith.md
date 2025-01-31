@@ -1,8 +1,8 @@
 ---
 name: Nadia Mariyan Smith
 image: images/Nadia.jpg
-description: MI Student, Faculty of Information
-role: masters
+description: Research Assistant
+role: research-assistant
 aliases: 
   - Nadia Smith
   - Nadia Mariyan Smith
