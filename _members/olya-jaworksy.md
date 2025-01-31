@@ -8,7 +8,7 @@ aliases:
   - O Jaworsky
   - Olya J
   - O. Jaworsky
-group: 
+group:
 links:
   linkedin: /olyajaworsky/
 
