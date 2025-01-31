@@ -15,7 +15,7 @@ links:
 
 ---
 
-Nadia Mariyan Smith is a Master’s student in User Experience Design 
+Nadia Mariyan Smith is a master’s student in User Experience Design 
 at the University of Toronto’s Faculty of Information. With a background 
 in community work, they are interested in justice-oriented, 
 more-than-human design approaches that emphasize collective 
