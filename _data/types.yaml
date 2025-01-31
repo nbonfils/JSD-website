@@ -27,7 +27,7 @@ programmer:
   description: Programmer
   
 research-assistant:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-magnifying-glass
   description: Research Assistant
 
 mascot:
