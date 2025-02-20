@@ -1,3 +1,12 @@
+- title: Save the AI
+  image: images/savetheai.png
+  link: https://savethe.ai/
+  description: Save the AI is a satirical campaign that uses humour to juxtapose our personal needs for Earth’s resources with evidence of just how much of these resources are now being claimed by the data centres running generative AI.
+  repo: 
+  tags:
+    - sustainability
+    - degrowth
+    
 - title: Curbcut
   image: images/ppl_per_tree.png
   link: https://toronto.curbcut.ca/
