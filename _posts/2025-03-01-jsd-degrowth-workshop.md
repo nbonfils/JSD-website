@@ -8,11 +8,11 @@ tags:
 excerpt: "Our lab, the Just Sustainability Design Lab is hosting an online open workshop session on Computing and AI Through the Lens of Degrowth 
 on March 21, 2025, from 10:00 AM to 12:00 PM. Please see full post for details."
 ---
-JSD 2024-25 Workshop Series: Workshop 3 (\n)
-Online, March 21, 2025 (\n) 
-Pre-session 9:30-10:00am ET(\n)
-Workshop 10:00am-12:00pm ET(\n)
-Stay and chat till 12:30pm ET(\n)
+JSD 2024-25 Workshop Series: Workshop 3\
+Online, March 21, 2025\
+Pre-session 9:30-10:00am ET\
+Workshop 10:00am-12:00pm ET\
+Stay and chat till 12:30pm ET\
 
 The Just Sustainability Design Lab at University of Toronto’s Faculty of Information 
 invites you to join us for an online workshop session on "Computing and AI Through the Lens of Degrowth" 
