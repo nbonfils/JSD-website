@@ -12,7 +12,7 @@ JSD 2024-25 Workshop Series: Workshop 3\
 Online, March 21, 2025\
 Pre-session 9:30-10:00am ET\
 Workshop 10:00am-12:00pm ET\
-Stay and chat till 12:30pm ET\
+Stay and chat till 12:30pm ET
 
 The Just Sustainability Design Lab at University of Toronto’s Faculty of Information 
 invites you to join us for an online workshop session on "Computing and AI Through the Lens of Degrowth" 
