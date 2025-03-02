@@ -58,11 +58,11 @@ References
 
 1.	Kallis, G., Paulson, S., D’Alisa, G. & Demaria, F. *The Case for Degrowth.* (Polity, UK, 2020).
 2.	Hickel, J. The anti-colonial politics of degrowth. *Polit. Geogr.* **88**, 102404 (2021).
-3.	Hickel, J. What does degrowth mean? A few points of clarification. *Globalizations* **18**, 1105–1111 (2021). https://doi.org/10.1080/14747731.2020.1812222
+3.	Hickel, J. What does degrowth mean? A few points of clarification. *Globalizations* **18**, 1105–1111 (2021). [https://doi.org/10.1080/14747731.2020.1812222](https://doi.org/10.1080/14747731.2020.1812222)
 4.	Hickel, J. *Less Is More: How Degrowth Will Save the World.* (Penguin Random House, 2020).
 5.	Pansera, M. & Fressoli, M. Innovation without growth: Frameworks for understanding technological change in a post-growth era. *Organization* **28**, 380–404 (2021).
 6.	Kostakis, V., Niaros, V. & Giotitsas, C. Beyond global versus local: illuminating a cosmolocal framework for convivial technology development. *Sustain. Sci.* **18**, 2309–2322 (2023).
 7.	Kwet, M. *Digital Degrowth: Technology in the Age of Survival.* (Pluto Press, London, 2024).
-8.	Savini, F. Post-Growth, Degrowth, the Doughnut, and Circular Economy: A Short Guide for Policymakers. *J. City Clim. Policy Econ.* **2**, 113–123 (2024). https://jccpe.utpjournals.press/doi/full/10.3138/jccpe-2023-0004
+8.	Savini, F. Post-Growth, Degrowth, the Doughnut, and Circular Economy: A Short Guide for Policymakers. *J. City Clim. Policy Econ.* **2**, 113–123 (2024). [https://jccpe.utpjournals.press/doi/full/10.3138/jccpe-2023-0004](https://jccpe.utpjournals.press/doi/full/10.3138/jccpe-2023-0004)
 9.	Kallis, G. *et al.* Post-growth: the science of wellbeing within planetary boundaries. *Lancet Planet. Health* **9**, e62–e78 (2025).
 
