@@ -79,9 +79,9 @@ sustainability. In this talk, they will discuss a project they are working on wi
 data platform cooperative for people living with diabetes.
 
 **Nils Bonfils:** Nils is a PhD student in the Department of Computer Science at UofT. 
-His research interest lies at the interesection of Computer Science, STS and the Environment. His current research is about 
+His research interest lies at the intersection of Computer Science, STS and the Environment. His current research is about 
 improving current data about historical flood events in the GTA by leveraging digital newspaper archives, furthermore this project allows 
-him to think about different ways of understanding and respresenting data bout floods. Exploring alterities has always been a important aspect of research for him.
+him to think about different ways of understanding and representing data about floods. Exploring alterities has always been a important aspect of research for him.
 
 References
 
