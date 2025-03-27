@@ -1,5 +1,5 @@
 ---
-title: Research Collaboration Opportunity: Data Curation in Machine Learning
+title: "Research Collaboration Opportunity: Data Curation in Machine Learning"
 author: eshta-bhardwaj
 last_modified_at: ""
 tags: 
