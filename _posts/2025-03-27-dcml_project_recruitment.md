@@ -1,6 +1,6 @@
 ---
 title: "Research Collaboration Opportunity: Data Curation in Machine Learning"
-author: eshta-bhardwaj
+author: christoph-becker
 last_modified_at: ""
 tags: 
 excerpt: "We are looking to collaborate with a research group that wants to review and refine their data practices for improved documentation. Please see full post for details."
@@ -56,11 +56,11 @@ The findings from this study would result in **1) improved joint understanding o
 would thus provide insights on practical approaches in performing and adopting data curation practices that result in improved datasets and consequently models. 
 
 Potential activities with the expected outcomes are listed below, this is not a comprehensive list and the activities will depend on the collaborative needs of the project. 
-1) Workshop to introduce data curation concepts
-2) Collaborative examination of current curation practices and proposal for improvements for data workflows
-3) Sample evaluations of dataset documentation for new datasets created by the research team
-4) Sample evaluations of dataset documentation for existing datasets used by the research team (or in consideration to be used)
-5) Examination of dataset(s) to glean usage to be applied for various ML efforts
+1. Workshop to introduce data curation concepts
+2. Collaborative examination of current curation practices and proposal for improvements for data workflows
+3. Sample evaluations of dataset documentation for new datasets created by the research team
+4. Sample evaluations of dataset documentation for existing datasets used by the research team (or in consideration to be used)
+5. Examination of dataset(s) to glean usage to be applied for various ML efforts
 
 If you are interested, please contact Prof. Christoph Becker at [christoph.becker@utoronto.ca](mailto:christoph.becker@utoronto.ca).
 
