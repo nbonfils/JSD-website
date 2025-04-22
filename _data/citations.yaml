@@ -1071,12 +1071,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:https://archivaria.ca/index.php/archivaria/article/view/13628
-  title: 'Metaphors We Work By: Reframing Digital Objects, Significant Properties,
-    and the Design of Digital Preservation Systems'
-  authors:
-  - Christoph Becker
-  publisher: Archivaria
-  date: '2018-05-03'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://archivaria.ca/index.php/archivaria/article/view/13628
   type: paper
   plugin: sources.py
@@ -1319,7 +1317,7 @@
   - A. Caetano
   publisher: International Conference on Digital Preservation (IPRES)
   date: '2020-01-01'
-  link: http://ww16.benchmark-dp.org/caiwipres/?sub1=20250104-1204-311d-871b-20bec541af82
+  link: http://ww38.benchmark-dp.org/caiwipres/
   type: paper
   plugin: sources.py
   file: sources.yaml
