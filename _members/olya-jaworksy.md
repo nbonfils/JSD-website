@@ -1,7 +1,7 @@
 ---
 name: Olya Jaworsky
 image: images/Olya.jpeg
-description: Research Assistant
+description: Research Assistant (2025)
 role: research-assistant
 aliases: 
   - Olya Jaworsky
