@@ -10,7 +10,7 @@ aliases:
   - O. Jaworsky
 links:
   linkedin: /olyajaworsky/
-
+group: alum
 ---
 
 Olya Jaworsky is a Master of Information student in User Experience Design 
