@@ -2,7 +2,7 @@
 name: Nadia Mariyan Smith
 image: images/Nadia.jpg
 description: Research Assistant
-role: research-assistant
+role: phd
 aliases: 
   - Nadia Smith
   - Nadia Mariyan Smith
