@@ -1,6 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1145/3710901
+  title: '"Near Data" and "Far Data" for Urban Sustainability: How Do Community Advocates
+    Envision Data Intermediaries?'
+  authors:
+  - Han Qiao
+  - Siyi Wu
+  - Christoph Becker
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2025-05-02'
+  link: https://doi.org/g9k3qn
   orcid: 0000-0002-8364-0593
   plugin: orcid.py
   file: orcid.yaml
