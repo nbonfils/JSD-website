@@ -43,7 +43,7 @@ our data curation framework. We anticipate that the collaborative process will r
 may lead to the framework evolving to better suit the needs of the ML group. 
 
 <u>Requirements:</u>
-- You are interested in improving their data practices. This is broadly 
+- You are interested in improving your data practices. This is broadly 
 construed - it includes data collection, data management, data processing and cleaning, data storage and overall data design decisions. 
 - You intend for the data to be used in a ML model. However, the approach does not have to be decided (and the curation process can also help guide this decision). 
 - Your work can be at **any stage of the data pipeline** - whether it be data collection or data management. For example, if the group is looking to start data collection or is ready to use the dataset within a model, we can make recommendations on how curation principles can be applied to better document and steward the data. 
