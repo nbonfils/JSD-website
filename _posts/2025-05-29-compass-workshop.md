@@ -7,7 +7,7 @@ tags:
 excerpt: "Join us for an interactive workshop that delves into the ecological and social impacts of data centers, please see full post for details."
 ---
 **COMPASS Workshop: Humour as Resistance: Creative Approaches to Data Center Accountability**\
-**Worshops are scheduled on July 22 and 23rd.**
+**Worshops are scheduled on July 22 and 23rd. Please stay tuned for the final scheduling.**
 
 **Call for Participation:**
 Join us for an interactive workshop that delves into the ecological and social impacts of data centers, the backbone of AI infrastructure. 
