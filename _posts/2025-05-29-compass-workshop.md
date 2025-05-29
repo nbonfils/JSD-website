@@ -24,7 +24,7 @@ increasing social and environmental resource consumption taking place in data ce
 We invite activists, researchers, and community members to contribute their perspectives and creativity. By participating, you will help build a network of 
 resistance against the negative impacts of data center infrastructure, fostering a sense of community and shared purpose. 
 
-Please register here to attend the workshop: []().
+Please register here to attend the workshop: [](). Please contact [Eshta Bhardwaj](mailto:eshta.bhardwaj@mail.utoronto.ca) for any questions. 
 
 
 **Agenda:**
