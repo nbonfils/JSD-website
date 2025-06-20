@@ -8,7 +8,7 @@ excerpt: "The JSD lab is hosting an online FAccT CRAFT session about the environ
 ---
 **FAccT'25 CRAFT: Leveraging humour, satire, and art to engage with the environmental impacts of AI**
 **June 23 from 1030am-1230pm ET, Virtual**
-
+ 
 **Session Description:**
 Our interactive CRAFT workshop session uses satire and creative expression to 
 facilitate and strengthen collective organizing around the environmental damages caused by AI systems.
