@@ -35,4 +35,6 @@ materials that the community can use, and contribute to community
 building in the face of the issues of accountability, transparency, and 
 ecological and social harms that result from rampant AI. 
 
-Please note that in order to attend, all participants must register for ACM FAccT. [https://facctconference.org/2025/registration](https://facctconference.org/2025/registration)
+Please note that in order to attend, all participants must register for ACM FAccT. [https://facctconference.org/2025/registration](https://facctconference.org/2025/registration). 
+More details about our CRAFT session can be found [here](https://programs.sigchi.org/facct/2025/my-schedule/content/198133) on the 
+FAccT schedule which also includes the Zoom event link. 
