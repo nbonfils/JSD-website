@@ -7,7 +7,7 @@ tags:
 excerpt: "Join us for an interactive workshop that delves into the ecological and social impacts of data centers, please see full post for details."
 ---
 **COMPASS Workshop: Humour as Resistance: Creative Approaches to Data Center Accountability**\
-**July 22 from 2:00-6:00pm at MY330 (Myhal Centre) or Online (Zoom)**
+**July 22 from 2:00-6:00pm at MY330 (Myhal Centre) and Online (Zoom)**
 
 **Call for Participation:**
 Join us for an interactive workshop that delves into the ecological and social impacts of data centers, the backbone of AI infrastructure. 
