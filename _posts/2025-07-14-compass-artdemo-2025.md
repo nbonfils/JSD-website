@@ -1,6 +1,6 @@
 ---
 title: "COMPASS Arts & Demos: Are you Thirsty? So is your AI."
-author: eshta-bhardwaj
+author: han-qiao
 last_modified_at: ""
 tags:
   - event
@@ -13,8 +13,8 @@ The JSD lab will have an art and demo installation at the COMPASS conference on 
 
 **Come say hi to the organizers!**
 
-{% include portrait.html lookup="eshta-bhardwaj" style="small"%} 
 {% include portrait.html lookup="han-qiao" style="small" %} 
+{% include portrait.html lookup="eshta-bhardwaj" style="small"%} 
 {% include portrait.html lookup="rowan-munson" style="small" %} 
 {% include portrait.html lookup="nils-bonfils" style="small" %} 
 {% include portrait.html lookup="nadia-smith" style="small" %} 
