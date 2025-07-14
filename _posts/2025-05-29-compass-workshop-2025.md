@@ -25,11 +25,20 @@ We invite activists, researchers, and community members to contribute their pers
 resistance against the negative impacts of data center infrastructure, fostering a sense of community and shared purpose. 
 
 Please register here to attend the workshop: [https://cryptpad.fr/form/#/2/form/view/EEYh7mnHE+oT97BSUUNCvVR+H5d4ft2h3gkOkcRmveM/](https://cryptpad.fr/form/#/2/form/view/EEYh7mnHE+oT97BSUUNCvVR+H5d4ft2h3gkOkcRmveM/). Please contact [Eshta Bhardwaj](mailto:eshta.bhardwaj@mail.utoronto.ca) for any questions. 
-Please note that in order to attend, all participants must register for ACM COMPASS. [https://compass.acm.org/](https://compass.acm.org/)
-
 
 **Agenda:**
 *Coming soon!*
 
-**Speakers and Organizers:**
-*Coming soon!*
+**Guest Speaker:**
+{% include portrait.html lookup="hanna-barakat" style="tiny" %} 
+
+**Organizers:**
+
+{% include portrait.html lookup="eshta-bhardwaj" style="tiny"%} 
+{% include portrait.html lookup="han-qiao" style="tiny" %} 
+{% include portrait.html lookup="rowan-munson" style="tiny" %} 
+{% include portrait.html lookup="nils-bonfils" style="tiny" %} 
+{% include portrait.html lookup="nadia-smith" style="tiny" %} 
+{% include portrait.html lookup="victoria-landau" style="tiny" %} 
+{% include portrait.html lookup="christoph-becker" style="tiny"%} 
+
