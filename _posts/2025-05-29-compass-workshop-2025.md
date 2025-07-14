@@ -27,13 +27,13 @@ resistance against the negative impacts of data center infrastructure, fostering
 Please register here to attend the workshop: [https://cryptpad.fr/form/#/2/form/view/EEYh7mnHE+oT97BSUUNCvVR+H5d4ft2h3gkOkcRmveM/](https://cryptpad.fr/form/#/2/form/view/EEYh7mnHE+oT97BSUUNCvVR+H5d4ft2h3gkOkcRmveM/). Please contact [Eshta Bhardwaj](mailto:eshta.bhardwaj@mail.utoronto.ca) for any questions. 
 
 **Agenda:**
-1. 200 - 220: Workshop Introduction
-2. 220 - 300: Guest Speaker Hanna Barakat's talk on her recent [Case Study Analysis of Data Center Development](https://www.themaybe.org/research/data-center-report-where-cloud-meets-cement)
-3. 300 - 330: Break
-4. 330 - 400: Organizer Han Qiao speaks about workshop themes: art, humour, satire, absurdity, viscerality
-5. 400 - 430: Attendees participate in an activity 
-6. 430 - 530: Reflections 
-7. 530 - 545: Workshop Conclusion 
+- 200 - 220: Workshop Introduction
+- 220 - 300: Guest Speaker Hanna Barakat's talk on her recent [Case Study Analysis of Data Center Development](https://www.themaybe.org/research/data-center-report-where-cloud-meets-cement)
+- 300 - 330: Break
+- 330 - 400: Organizer Han Qiao speaks about workshop themes: art, humour, satire, absurdity, viscerality
+- 400 - 430: Attendees participate in an activity 
+- 430 - 530: Reflections 
+- 530 - 545: Workshop Conclusion 
 
 **Guest Speaker:**
 {% include portrait.html lookup="hanna-barakat" style="small" %} 
