@@ -7,15 +7,14 @@
     - sustainability
     - degrowth
     
-- title: Curbcut
-  image: images/ppl_per_tree.png
-  link: https://toronto.curbcut.ca/
-  description: A map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. 
-  repo: https://github.com/Curbcut/curbcut-toronto
+- title: Undecided? A Board Game
+  image: images/undecided.jpg
+  link: https://ppig.org/papers/2020-ppig-31st-becker/
+  description:  In Undecided? A Board Game to study Intertemporal choices in software projects, our team did, well, what the title says. The game facilitates (1) educational exploration of intertemporal choice and (2) studies of intertemporal choice. We plan to release it on Kickstarter in 2023/2024!
   tags:
-    - urban sustainability
-    - data curation
-    - civic tech
+    - decision making
+    - intertemporal choice
+    - cognitive studies
 
 - title: Building Inclusive Neighbourhoods 
   image: images/school of cities3.png
@@ -37,11 +36,12 @@
     - dataset development
     - machine learning
 
-- title: Undecided? A Board Game
-  image: images/undecided.jpg
-  link: https://ppig.org/papers/2020-ppig-31st-becker/
-  description:  In Undecided? A Board Game to study Intertemporal choices in software projects, our team did, well, what the title says. The game facilitates (1) educational exploration of intertemporal choice and (2) studies of intertemporal choice. We plan to release it on Kickstarter in 2023/2024!
+- title: Curbcut
+  image: images/ppl_per_tree.png
+  link: https://toronto.curbcut.ca/
+  description: A map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. 
+  repo: https://github.com/Curbcut/curbcut-toronto
   tags:
-    - decision making
-    - intertemporal choice
-    - cognitive studies
+    - urban sustainability
+    - data curation
+    - civic tech
