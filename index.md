@@ -21,8 +21,11 @@ Our research activities involve:
 2. the development of methods and tools for just sustainability design, and
 3. design projects to bring forth just sustainabilities in urban contexts
 
-## Recent Projects
-{% include list.html component="card" data="projects" filters="group: "%}
+## Current Projects
+{% include list.html component="card" data="currentprojects" filters="group: "%}
+
+## Completed Projects
+{% include list.html component="card" data="completedprojects" filters="group: "%}
 
 ## Who We Are
 ### Current Members

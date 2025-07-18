@@ -1,0 +1,47 @@
+- title: Save the AI
+  image: images/savetheai.png
+  link: https://savethe.ai/
+  description: Save the AI is a satirical campaign that uses humour to juxtapose our personal needs for Earth’s resources with evidence of just how much of these resources are now being claimed by the data centres running generative AI.
+  repo: 
+  tags:
+    - sustainability
+    - degrowth
+    
+- title: Curbcut
+  image: images/ppl_per_tree.png
+  link: https://toronto.curbcut.ca/
+  description: A map-based data exploration and visualization tool designed to translate urban sustainability data into actionable knowledge for shaping sustainable cities. 
+  repo: https://github.com/Curbcut/curbcut-toronto
+  tags:
+    - urban sustainability
+    - data curation
+    - civic tech
+
+- title: Building Inclusive Neighbourhoods 
+  image: images/school of cities3.png
+  link: https://schoolofcities.utoronto.ca/urban-challenge-grant-3-0-migration-belonging-and-thriving/
+  description: In this new project funded by the School of Cities, we explore the tensions between data analytics and lived experience through lenses such as design justice and data feminism.
+  repo:
+  tags:
+    - civic tech
+    - design justice
+    - data feminism
+
+- title: Data Curation in Machine Learning
+  image: images/DCML_project1.png
+  link: https://justsustainabilitydesign.org/datacurationinML/
+  description: As part of this project, we designed an evaluation framework that adopts principles and concepts from data curation to enable more responsible ML dataset development. We applied this framework to examine current curation practices in ML and suggest areas of improvement. 
+  repo:
+  tags:
+    - data curation
+    - dataset development
+    - machine learning
+
+- title: Undecided? A Board Game
+  image: images/undecided.jpg
+  link: https://ppig.org/papers/2020-ppig-31st-becker/
+  description:  In Undecided? A Board Game to study Intertemporal choices in software projects, our team did, well, what the title says. The game facilitates (1) educational exploration of intertemporal choice and (2) studies of intertemporal choice. We plan to release it on Kickstarter in 2023/2024!
+  tags:
+    - decision making
+    - intertemporal choice
+    - cognitive studies
