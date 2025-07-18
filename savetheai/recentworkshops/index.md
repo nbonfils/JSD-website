@@ -32,7 +32,7 @@ be featured at Responsible AI Day co-located at KDD 2025.
 {% include portrait.html lookup="victoria-landau" style="tiny" %} 
 {% include portrait.html lookup="nils-bonfils" style="tiny" %} 
 {% include portrait.html lookup="monica-iqbal" style="tiny" %} 
-{% include portrait.html lookup="olya-jaworksy" style="tiny" %} 
+{% include portrait.html lookup="olya-jaworsky" style="tiny" %} 
 {% include portrait.html lookup="rowan-munson" style="tiny" %} 
 {% include portrait.html name="Lena Rubisova" style="tiny" %} 
 {% include portrait.html lookup="nadia-smith" style="tiny" %} 
