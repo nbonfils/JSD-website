@@ -21,11 +21,11 @@ title: Save the AI
 {% include section.html %}
 ## Project Overview
 
-***"AI Needs Your Help***
+***AI Needs Your Help***
 
 *Artificial Intelligence is facing a crisis: humans are consuming far too many precious* 
 *resources that AI needs to thrive. Every sip of water you take and every light you turn on *
-*could be sustaining the AI systems that uphold your digital conveniences."*
+*could be sustaining the AI systems that uphold your digital conveniences.*
 
 **Do we actually want you to sit thirstily in the dark with an empty phone battery? Of course not.**
 
