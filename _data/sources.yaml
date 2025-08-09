@@ -12,7 +12,7 @@
   date: '2024-06-03'
   image: images/DCML_project1.png
 
-- id: url:https://justsustainabilitydesign.org/neardatafardata/CSCW2025_Near_Data_Far_Data_CameraReady.pdf
+- id: doi:10.1145/3710901
   type: paper
   title: 'Near Data and Far Data for Urban Sustainability: How Do Community Advocates Envision Data Intermediaries?'
   authors:
