@@ -1066,6 +1066,7 @@
   date: '2025-01-13'
   link: https://justsustainabilitydesign.org/neardatafardata/CSCW2025_Near_Data_Far_Data_CameraReady.pdf
   type: paper
+  image: images/curbcut1.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2410.22473
