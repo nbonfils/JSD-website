@@ -36,6 +36,9 @@
   publisher: 'Advances in Neural Information Processing Systems, 37 (NeurIPS 2024)'
   date: "2024-12-09"
   image: images/DCML_project2.png
+  
+- id: uri:https://sites.google.com/view/post-growthhci/
+  date: "2024-05-12"
 
 - id: url:https://computingwithinlimits.org/2024/papers/limits2024-bhardwaj-psychological-distance.pdf
   type: paper
