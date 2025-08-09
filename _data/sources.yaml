@@ -21,6 +21,7 @@
     - Christoph Becker
   publisher: 'The 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCSW 2025)'
   date: '2025-01-13'
+  image: images/curbcut1.png
   
 - id: doi:10.48550/arXiv.2410.22473
   type: paper
