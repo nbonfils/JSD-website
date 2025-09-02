@@ -60,7 +60,7 @@ def main(entry):
             # sort summary entries by most recent
             summaries = sorted(
                 summaries,
-                key=lambda summary: (get_safe(summary, "created-date.value", 0))
+                key=lambda summary: (get_safe(summary, "last-modified-date.value", 0))
                 or get_safe(summary, "created-date.value", 0)
                 or 0,
                 reverse=True,
@@ -80,8 +80,8 @@ def main(entry):
 
             # get date
             date = (
-                get_safe(work, "created-date.value")
-                or first(lambda s: get_safe(s, "created-date.value"))
+                get_safe(work, "last-modified-date.value")
+                or first(lambda s: get_safe(s, "last-modified-date.value"))
                 or get_safe(work, "created-date.value")
                 or first(lambda s: get_safe(s, "created-date.value"))
                 or 0
