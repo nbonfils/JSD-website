@@ -49,9 +49,6 @@ def main(entry):
         id_type = get_safe(_id, "external-id-type", "")
         id_value = get_safe(_id, "external-id-value", "")
 
-        if id_type == "uri":
-            id_type = "url"
-
         # create source
         source = {"id": f"{id_type}:{id_value}"}
 
