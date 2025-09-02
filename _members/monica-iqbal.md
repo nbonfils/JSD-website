@@ -17,4 +17,4 @@ Previously, she studied Computer Science at the University of Toronto with minor
 Additionally, Monica holds 4 years of industry experience as both a web designer and developer. Her career and research interests are situated 
 within design justice and the role it plays in designing sustainable, accessible, and inclusive products and services for everyone. Currently, 
 Monica is writing her master’s thesis on intertemporal choices, gamification, and environmental social media design, where she will add a third scenario to 
-Undecided? involving the creation of an environmental social network and develop a complementary facilitation app for the game.
+*Undecided?* involving the creation of an environmental social network and develop a complementary facilitation app for the game.
