@@ -12,13 +12,9 @@ links:
 
 ---
 
-Monica is a Master of Information candidate, specializing in user experience design and sustainability. 
+Monica is a Master of Information candidate in her final year, specializing in user experience design and sustainability. 
 Previously, she studied Computer Science at the University of Toronto with minors in Environmental Geography and Environmental Studies. 
-In addition, she works as a Web Coordinator at Rogers where she works 
-closely with the marketing team to update content on the Rogers Business site. 
-Monica’s research interests are situated within design justice and the role it plays 
-in designing inclusive products and services for everyone. She is drawn to design 
-justice because it enables her to combine her passions of technology and social justice. 
-Currently, Monica is writing her master’s thesis on intertemporal choices, gamification, 
-and environmental social media design, where she will add a third scenario to *Undecided?* 
-involving the creation of an environmental social network and develop a complementary app for the game.
+Additionally, Monica holds 4 years of industry experience as both a web designer and developer. Her career and research interests are situated 
+within design justice and the role it plays in designing sustainable, accessible, and inclusive products and services for everyone. Currently, 
+Monica is writing her master’s thesis on intertemporal choices, gamification, and environmental social media design, where she will add a third scenario to 
+Undecided? involving the creation of an environmental social network and develop a complementary facilitation app for the game.
